@@ -1,11 +1,3 @@
-################################################
-#                                              #
-#  Name:Jesslyn Zamora                         #
-#  Class: CDA 3100                             #
-#  Assignment 5: Determine the sum, min, max,  #	
-#		 mean, and variance.                   #
-#                                              #
-################################################
 
                 .data
 msg1:   .asciiz "Enter integer values, one per line, terminated by a negative value.\n"
